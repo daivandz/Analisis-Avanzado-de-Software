@@ -7,9 +7,9 @@
 ## Docente: JAIME LEONARDO ENRIQUEZ ALVAREZ
 ___
 # :page_with_curl: Datos del alumno
-## - Nombre: Domínguez Cervantes Daniel Iván
-## - Num. de control: 17212335
-## - Carrera: ingeniería informática
+- ## Nombre: Domínguez Cervantes Daniel Iván
+- ## Num. de control: 17212335
+- ## Carrera: ingeniería informática
 
 ___
 
