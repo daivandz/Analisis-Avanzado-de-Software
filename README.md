@@ -6,13 +6,13 @@
 ## ADF-1702IF8A ANÁLISIS AVANZADO DE SOFTWARE
 ## Docente: JAIME LEONARDO ENRIQUEZ ALVAREZ
 ___
-#
-## Carrera: ingeniería informática
-## Nombre: Domínguez Cervantes Daniel Iván
-## Num. de control: 17212335
-#
+# :page_with_curl: Datos del alumno
+## - Nombre: Domínguez Cervantes Daniel Iván
+## - Num. de control: 17212335
+## - Carrera: ingeniería informática
+
 ___
-#
+
 ## :floppy_disk: Índice 
 - ### :file_folder: [Unidad 1](./Unidad_1)
 - ### :file_folder: [Unidad 2](./Unidad_2)
