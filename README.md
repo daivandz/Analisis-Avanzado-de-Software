@@ -10,7 +10,7 @@ ___
 - ## Nombre: Domínguez Cervantes Daniel Iván
 - ## Num. de control: 17212335
 - ## Carrera: ingeniería informática
-
+- ## Equipo: Helltakers
 ___
 
 # :floppy_disk: Índice 
