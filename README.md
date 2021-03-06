@@ -19,5 +19,6 @@ ___
     - ## :open_file_folder: [Actividades C](./Unidad_1/Actividades_C)
         - ## :page_facing_up: [C0.1 Integrar equipos de trabajo](./Unidad_1/Actividades_C/C0.1_IntegrarEquiposDeTrabajo_DanielDominguez.md)
         - ## :page_facing_up: [C0.2  Tipo de sistema de información](./Unidad_1/Actividades_C/C0.2_Tipo_de_sistema_de_información_DanielDominguez.md)
+        - ## :page_facing_up: [C0.3 Diagrama de flujo del proceso](./Unidad_1/Actividades_C/C0.3_DiagramaDeFlujoDelProceso_DanielDominguez.md)
 - ## :file_folder: [Unidad 2](./Unidad_2)
 - ## :file_folder: [Unidad 3](./Unidad_3)
