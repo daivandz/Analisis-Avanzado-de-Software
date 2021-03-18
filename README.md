@@ -16,6 +16,7 @@ ___
 # :floppy_disk: Índice 
 - ## :file_folder: [Unidad 1](./Unidad_1)
     - ## :open_file_folder: [Actividades A](./Unidad_1/Actividades_A)
+        - ## :page_facing_up: [A0.1 Recopilación de datos por medio de la entrevista](./Unidad_1/Actividades_A/A0.1_DataCollectionThroughTheInterviewDanielDominguez.md)
     - ## :open_file_folder: [Actividades C](./Unidad_1/Actividades_C)
         - ## :page_facing_up: [C0.1 Integrar equipos de trabajo](./Unidad_1/Actividades_C/C0.1_IntegrarEquiposDeTrabajo_DanielDominguez.md)
         - ## :page_facing_up: [C0.2  Tipo de sistema de información](./Unidad_1/Actividades_C/C0.2_Tipo_de_sistema_de_información_DanielDominguez.md)
