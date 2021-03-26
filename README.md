@@ -22,4 +22,8 @@ ___
         - ## :page_facing_up: [C0.2  Tipo de sistema de información](./Unidad_1/Actividades_C/C0.2_Tipo_de_sistema_de_información_DanielDominguez.md)
         - ## :page_facing_up: [C0.3 Diagrama de flujo del proceso](./Unidad_1/Actividades_C/C0.3_DiagramaDeFlujoDelProceso_DanielDominguez.md)
 - ## :file_folder: [Unidad 2](./Unidad_2)
+    - ## :open_file_folder: [Actividades A](./Unidad_2/Actividades_A)
+
+    - ## :open_file_folder: [Actividades C](./Unidad_2/Actividades_C)
+        - ## :page_facing_up: [C1.1 Definición de Objetivo general y los especificos, asi como el modelado del negocio](./Unidad_2/Actividades_C/C1.1_DefiniciónDeObjetivoGeneralYLosEspecificos,AsiComoElModeladoDelNegocio_DanielDominguez.md)
 - ## :file_folder: [Unidad 3](./Unidad_3)
