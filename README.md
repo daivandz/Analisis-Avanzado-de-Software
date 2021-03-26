@@ -25,5 +25,5 @@ ___
     - ## :open_file_folder: [Actividades A](./Unidad_2/Actividades_A)
 
     - ## :open_file_folder: [Actividades C](./Unidad_2/Actividades_C)
-        - ## :page_facing_up: [C1.1 Definición de Objetivo general y los especificos, asi como el modelado del negocio](./Unidad_2/Actividades_C/C1.1_DefiniciónDeObjetivoGeneralYLosEspecificos,AsiComoElModeladoDelNegocio_DanielDominguez.md)
+        - ## :page_facing_up: [C1.1 Definición de Objetivo general y los especificos, asi como el modelado del negocio](./Unidad_2/Actividades_C/C1.1_DefiniciónDeObjetivoGeneralYLosEspecificosAsiComoElModeladoDelNegocio_DanielDominguez.md)
 - ## :file_folder: [Unidad 3](./Unidad_3)
