@@ -26,5 +26,6 @@ ___
 
     - ## :open_file_folder: [Actividades C](./Unidad_2/Actividades_C)
         - ## :page_facing_up: [C1.1 Definición de Objetivo general y los especificos, asi como el modelado del negocio](./Unidad_2/Actividades_C/C1.1_DefiniciónDeObjetivoGeneralYLosEspecificosAsiComoElModeladoDelNegocio_DanielDominguez.md)
-        - ## :page_facing_up: [C1.2 Elaboracion del acta constitutiva del proyecto](./Unidad_2/Actividades_C/C1.2_ElaboracionDelActaConstitutivaDelProyecto_DanielDominguez.md)        
+        - ## :page_facing_up: [C1.2 Elaboracion del acta constitutiva del proyecto](./Unidad_2/Actividades_C/C1.2_ElaboracionDelActaConstitutivaDelProyecto_DanielDominguez.md)   
+        - ## :page_facing_up: [C1.3 Requisitos del sistema para el caso de estudio](./Unidad_2/Actividades_C/C1.3_RequisitosDelSistemaParaElCasoDeEstudio_DanielDominguez.md)        
 - ## :file_folder: [Unidad 3](./Unidad_3)
