@@ -24,6 +24,7 @@ ___
 - ## :file_folder: [Unidad 2](./Unidad_2)
     - ## :open_file_folder: [Actividades A](./Unidad_2/Actividades_A)
         - ## :page_facing_up: [A1.0 Consolidacion del acta constitutiva](./Unidad_2/Actividades_A/A1.0_ConstitutiveActOfTheProject_DanielDominguez.md)
+        - ## :page_facing_up: [A1.1  Modelado de requisitos a través de diagramas UML](./Unidad_2/Actividades_A/A1.1_RequirementsModeling_DanielDominguez.md)        
     - ## :open_file_folder: [Actividades C](./Unidad_2/Actividades_C)
         - ## :page_facing_up: [C1.1 Definición de Objetivo general y los especificos, asi como el modelado del negocio](./Unidad_2/Actividades_C/C1.1_DefiniciónDeObjetivoGeneralYLosEspecificosAsiComoElModeladoDelNegocio_DanielDominguez.md)
         - ## :page_facing_up: [C1.2 Elaboracion del acta constitutiva del proyecto](./Unidad_2/Actividades_C/C1.2_ElaboracionDelActaConstitutivaDelProyecto_DanielDominguez.md)   
