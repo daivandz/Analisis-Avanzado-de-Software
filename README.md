@@ -35,4 +35,3 @@ ___
     - ## :open_file_folder: [Actividades A](./Unidad_3/Actividades_A)
     - ## :open_file_folder: [Actividades C](./Unidad_3/Actividades_C)
         - ## :page_facing_up: [C2.1 Especificación de Requerimientos Funcionales](./Unidad_3/Actividades_C/C2.1_EspecificaciónDeRequerimientosFuncionales_DanielDominguez.md)
-- ## :file_folder: [Unidad 3](./Unidad_3)
