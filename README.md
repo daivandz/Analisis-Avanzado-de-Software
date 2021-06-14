@@ -41,5 +41,6 @@ ___
 - ## :file_folder: [Unidad 4](./Unidad_4)
     - ## :open_file_folder: [Actividades A](./Unidad_4/Actividades_A)
         - ## :page_facing_up: [A3.1 Fase inicio Scrum: Declaracion de vision del proyecto](./Unidad_4/Actividades_A/A3.1_ScrumStartPhaseProjectVisionStatement_DanielDominguez.md)
+        - ## :page_facing_up: [A3.2 Fase inicio: Artefactos](./Unidad_4/Actividades_A/A3.2_StartPhaseArtifacts_DanielDominguez.md)
     - ## :open_file_folder: [Actividades C](./Unidad_4/Actividades_C)
 
